@@ -1,0 +1,4 @@
+D:\Git\PunchOut\PunchOutDLL\bin\Release\PunchOutDLL.dll
+D:\Git\PunchOut\PunchOutDLL\bin\Release\PunchOutDLL.pdb
+D:\Git\PunchOut\PunchOutDLL\obj\Release\PunchOutDLL.dll
+D:\Git\PunchOut\PunchOutDLL\obj\Release\PunchOutDLL.pdb

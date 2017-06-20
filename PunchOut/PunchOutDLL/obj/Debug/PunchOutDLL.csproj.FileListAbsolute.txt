@@ -1,0 +1,5 @@
+D:\Git\iBuyCL\PunchOutDLL\bin\Debug\PunchOutDLL.dll
+D:\Git\iBuyCL\PunchOutDLL\bin\Debug\PunchOutDLL.pdb
+D:\Git\iBuyCL\PunchOutDLL\obj\Debug\PunchOutDLL.csprojResolveAssemblyReference.cache
+D:\Git\iBuyCL\PunchOutDLL\obj\Debug\PunchOutDLL.dll
+D:\Git\iBuyCL\PunchOutDLL\obj\Debug\PunchOutDLL.pdb

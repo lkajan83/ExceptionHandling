@@ -1,0 +1,23 @@
+c:\users\muneer\documents\visual studio 2015\Projects\iBuyCL\iBuyCL\bin\Debug\iBuyCL.exe.config
+c:\users\muneer\documents\visual studio 2015\Projects\iBuyCL\iBuyCL\bin\Debug\iBuyCL.exe
+c:\users\muneer\documents\visual studio 2015\Projects\iBuyCL\iBuyCL\bin\Debug\iBuyCL.pdb
+c:\users\muneer\documents\visual studio 2015\Projects\iBuyCL\iBuyCL\bin\Debug\Newtonsoft.Json.dll
+c:\users\muneer\documents\visual studio 2015\Projects\iBuyCL\iBuyCL\bin\Debug\Newtonsoft.Json.xml
+c:\users\muneer\documents\visual studio 2015\Projects\iBuyCL\iBuyCL\obj\Debug\iBuyCL.exe
+c:\users\muneer\documents\visual studio 2015\Projects\iBuyCL\iBuyCL\obj\Debug\iBuyCL.pdb
+D:\POD\iBuyCL\iBuyCL\bin\Debug\iBuyCL.exe.config
+D:\POD\iBuyCL\iBuyCL\obj\Debug\iBuyCL.exe
+D:\POD\iBuyCL\iBuyCL\obj\Debug\iBuyCL.pdb
+D:\POD\iBuyCL\iBuyCL\bin\Debug\iBuyCL.exe
+D:\POD\iBuyCL\iBuyCL\bin\Debug\iBuyCL.pdb
+D:\POD\iBuyCL\iBuyCL\bin\Debug\Newtonsoft.Json.dll
+D:\POD\iBuyCL\iBuyCL\bin\Debug\Newtonsoft.Json.xml
+D:\POD\iBuyCL\iBuyCL\obj\Debug\iBuyCL.csprojResolveAssemblyReference.cache
+D:\Git\iBuyCL\iBuyCL\bin\Debug\iBuyCL.exe.config
+D:\Git\iBuyCL\iBuyCL\obj\Debug\iBuyCL.exe
+D:\Git\iBuyCL\iBuyCL\obj\Debug\iBuyCL.pdb
+D:\Git\iBuyCL\iBuyCL\bin\Debug\iBuyCL.exe
+D:\Git\iBuyCL\iBuyCL\bin\Debug\iBuyCL.pdb
+D:\Git\iBuyCL\iBuyCL\bin\Debug\Newtonsoft.Json.dll
+D:\Git\iBuyCL\iBuyCL\bin\Debug\Newtonsoft.Json.xml
+D:\Git\iBuyCL\iBuyCL\obj\Debug\iBuyCL.csprojResolveAssemblyReference.cache

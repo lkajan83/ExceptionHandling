@@ -1,0 +1,10 @@
+D:\Git\PunchOut\PunchOutCA\bin\Release\PunchOutCA.exe.config
+D:\Git\PunchOut\PunchOutCA\bin\Release\PunchOutCA.exe
+D:\Git\PunchOut\PunchOutCA\bin\Release\PunchOutCA.pdb
+D:\Git\PunchOut\PunchOutCA\bin\Release\Newtonsoft.Json.dll
+D:\Git\PunchOut\PunchOutCA\bin\Release\Newtonsoft.Json.xml
+D:\Git\PunchOut\PunchOutCA\obj\Release\PunchOutCA.csprojResolveAssemblyReference.cache
+D:\Git\PunchOut\PunchOutCA\obj\Release\PunchOutCA.exe
+D:\Git\PunchOut\PunchOutCA\obj\Release\PunchOutCA.pdb
+D:\Git\PunchOut\PunchOutCA\obj\Release\PunchOutCA.ProjectInstaller.resources
+D:\Git\PunchOut\PunchOutCA\obj\Release\PunchOutCA.csproj.GenerateResource.Cache
